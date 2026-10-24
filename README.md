@@ -20,4 +20,4 @@ npm install
 npm run dev
 
 ## Live Link
-(add here after deployment)
+https://shopzy-catalog.vercel.app/
